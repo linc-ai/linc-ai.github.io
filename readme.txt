@@ -1,6 +1,6 @@
 Bootstrap/HTML5 Responsive Template
 
-Golden Hotel free html5 bootstrap web template is a simple clean modern HTML5 Bootstrap template. This template fits perfectly for the Hotels, restaurants, pubs, bars, wineries and other companies offering foods and drinks. This template designed with height quality standards to meet the latest requirment and it is a responsive template fits in all devices with multi browser support. This theme developed using latest modern technology like Bootstrap, html5 and css3 which is very easy to customeise the theme as per your requirements. Get it now download for free.  
+Avenger Multi-purpose Responsive HTML5 Bootstrap Template is a free website template for all types of business. This template is a modern clean designed build on top of Bootstrap using HTML5 CSS3 this template fits in all types of domains like agency, business, consultancy, portfolio, real estate, interior designer, and many more. This template designed with height quality standards to meet the latest requirements and it is a responsive template fits in all devices with multi browser support. Download for free.  
 
 Credits :
 -------
